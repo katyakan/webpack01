@@ -1,5 +1,5 @@
 import styles from './style.css';
 
-import pic2 from '../src/img/image01.png';
+import image01 from './img/image01.png';
 
 
